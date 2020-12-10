@@ -5,3 +5,7 @@
 - The main goal to perform this experiment is to get a higher saturation current and lower threshold voltage by reducing channel length modulation. 
 - For the distance between anode and cathode to 3 nm, the threshold voltage observed is 0.4V, and also 50% higher saturation current was observed.
 - This project contains all simulation performance on COMSOL software.
+
+#### Software Used: COMSOL Multi Physics
+#### Time Frame: May-Aug 2019 
+#### Course : Outside course - Research Interest
