@@ -1,4 +1,4 @@
-# Design-of-CNT-based-Vacuum-Transistor
+# Design-of-CNT-based-Vacuum-Transistor [Outside course work]
 
 - This research project was conducted under the guidelines of Prof.Ivan Puchdes at RIT which was not part of course work in Summer 2019.
 - The vacuum is used as the channel medium to reduce the collision of electrons.
